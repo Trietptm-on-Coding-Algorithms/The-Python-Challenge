@@ -21,7 +21,7 @@ for file in ${filelist[@]}
 do
     if [ "$file" != "00.sh" ]
     then
-        echo "#!/bin/python" > $file
+        echo "#!/usr/bin/python" > $file
         chmod +x $file
     fi
 done
