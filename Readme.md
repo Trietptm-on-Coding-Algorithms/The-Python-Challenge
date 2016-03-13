@@ -18,3 +18,17 @@
 
 ```print,``` print without a new-line
 
+## 3
+
+### re
+
+```m = search(pattern, string)```  search for all the strings matched, and it will be stored as groups, use like```m.group(0)``` to get them
+
+```m = match(pattern, string)``` different from ```search()```, it will try to match from the beginning of the string.
+
+```m = re.split(pattern, string)``` split the string according to the regular pattern, and all the sub-string splited will be sent to m, a list.
+
+```m = re.findall(pattern, string)``` find all the sub-string matched, and send them to a list(m).
+
+## 4
+http://www.pythonchallenge.com/pc/def/linkedlist.html
