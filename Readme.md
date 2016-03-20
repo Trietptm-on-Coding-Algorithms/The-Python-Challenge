@@ -10,6 +10,37 @@
 
 ```"".join([])``` translate list to string
 
+### base 10 to base 2
+
+```bin(11)```
+
+### base 2 to base 10
+
+```int(str, 2)```
+
+### base 10 to base 16
+
+```hex(10)```
+
+```print "%x"%16```
+
+### base 16 to base 10
+
+```int(str, 16)```
+
+```0xff```
+
+#### base 10 to base 8
+
+print "%o", 9
+
+### base 8 to base 10
+
+```int(str, 8)```
+
+```011```
+
+
 ## 2
 
 ```set([])``` init a set
