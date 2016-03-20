@@ -62,4 +62,8 @@
 ```m = re.findall(pattern, string)``` find all the sub-string matched, and send them to a list(m).
 
 ## 4
-http://www.pythonchallenge.com/pc/def/linkedlist.html
+
+give me time to know about URLLIB2 lib and Regular Expression
+
+## 5
+http://www.pythonchallenge.com/pc/def/peak.html
