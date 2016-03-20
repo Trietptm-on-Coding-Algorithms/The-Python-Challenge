@@ -12,33 +12,33 @@
 
 ### base 10 to base 2
 
-```bin(11)```
+```bin(11)``` 整型转整型
 
 ### base 2 to base 10
 
-```int(str, 2)```
+```int(str, 2)``` 字符串转整型
 
 ### base 10 to base 16
 
-```hex(10)```
+```hex(10)``` 整型转整型
 
-```print "%x"%16```
+```print "%x"%16``` 整型转字符串
 
 ### base 16 to base 10
 
-```int(str, 16)```
+```int(str, 16)``` 字符串转整型
 
-```0xff```
+```0xff``` 整型转整型
 
 #### base 10 to base 8
 
-``` print "%o", 9 ```
+``` print "%o", 9 ``` 整型转字符串
 
 ### base 8 to base 10
 
-```int(str, 8)```
+```int(str, 8)``` 字符串转整型
 
-```011```
+```011``` 整型转整型
 
 
 ## 2
